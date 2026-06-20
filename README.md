@@ -1,2 +1,2 @@
 # ha-mcqueen
-home assistant Tesla integraton
+home assistant Tesla integration
